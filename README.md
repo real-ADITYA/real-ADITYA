@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @real-ADITYA
-- 👀 I’m interested in coding, media creation, and hardware
-- 🌱 I’m currently learning java in AP Computer Science A
+- 👀 I’m interested in coding, media creation, and computer hardware
+- 🌱 I’m currently learning Java in Object Oriented II at the University of Maryland
 - 📫 You can reach me via email: adityareswaran@gmail.com
 
 <!---
