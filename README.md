@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @real-ADITYA
 - 👀 I’m interested in coding, computer hardware, and media creation!
-- 🌱 I’m currently learning OCaml (Organization of Programming Languages) at the University of Maryland - College Park!
+- 🌱 I’m currently learning OCaml, Rust and a plethora of other coding languages (Organization of Programming Languages) at the University of Maryland - College Park!
 - 📫 You can reach me via email: adityareswaran@gmail.com.
 
 <!---
